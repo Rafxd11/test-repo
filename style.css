@@ -1,0 +1,43 @@
+h1{
+    font-size: xx-large; font-family: Georgia, 'Times New Roman', Times, serif;  color: black;
+  }
+  
+  body{
+      background-color: papayawhip;
+      border: 2px solid;
+      margin: 0px;
+  }
+  
+  
+  img{
+      display: block;
+      margin: auto;
+      width: 50%;
+      height: 50;
+  }
+  div{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh
+  }
+  
+  img { border: 5px solid #555555; border-color: gold; border-radius: 10px; border-width: 5px;}
+  .paragraph { position: absolute; top: 0; left:}
+  
+      display: inline-block; {img}
+  p{
+   width: 500px;
+   height: 20;
+   font-size: 22px;
+   background: whitesmoke;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   margin: auto;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 25px  ;
+   margin-top: 25px;
+   margin-bottom: 25px;
+   background-color: whitesmoke;
+  }
